@@ -12,7 +12,7 @@ PC 版使用 `WPF` 开发，Android 使用 `Xamarin.Forms` 开发。
 技术点：网络协议分析、`sqlite-net-pcl`、责任链、模板方法、`MVVM`、模板绑定 等。  
 
 ### ![FindDuplicateFiles.png](https://s2.loli.net/2022/03/01/DJ8MQoZOVCrS9mE.png) [重复文件查找工具](https://github.com/JiuLing-zhang/FindDuplicateFiles)  
-查找本机的重复文件，对查询到的重复文件支持一键删除。
+查找本机的重复文件，对查询到的重复文件支持一键删除。  
 使用 `WPF` 开发。    
 技术点：多线程、队列、枚举的位运算、自定义过滤器 等。  
 
