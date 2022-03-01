@@ -16,4 +16,4 @@ PC 版使用 `WPF` 开发，Android 使用 `Xamarin.Forms` 开发。
 使用 `WPF` 开发。    
 技术点：多线程、队列、枚举的位运算、自定义过滤器 等。  
 
-#### 暂时先整理这么几个，其它的点这里访问👉👉👉[我的仓库](https://github.com/JiuLing-zhang?tab=repositories)
+暂时先整理这么几个，其它的点这里访问👉👉👉[我的仓库](https://github.com/JiuLing-zhang?tab=repositories)  
