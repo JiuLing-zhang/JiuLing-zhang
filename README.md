@@ -1,5 +1,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuLing-zhang&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+热爱码代码，搞的我键盘都换两把了 :dog::dog:
+
 ## 开源项目
 ### ![AutoUpgrade.png](https://s2.loli.net/2022/03/01/5fqmdWZh4UKinzy.png) [自动更新组件](https://github.com/JiuLing-zhang/JiuLing.AutoUpgrade)  
 一个Windows下的自动更新组件。  
@@ -15,5 +17,9 @@ PC 版使用 `WPF` 开发，Android 使用 `Xamarin.Forms` 开发。
 查找本机的重复文件，对查询到的重复文件支持一键删除。  
 使用 `WPF` 开发。    
 技术点：多线程、队列、枚举的位运算、自定义过滤器 等。  
+
+### ![ExcelExport.png](https://s2.loli.net/2022/03/02/R3SB6hK2eHfEtkp.png)[基于Excel模板的导出组件](https://github.com/JiuLing-zhang/JiuLing.ExcelExport)  
+一个基于Excel模板导出的组件（基于NPOI），配置完成模板和数据源即可一键导出，支持多 Sheet导出。  
+技术点：`null` 因为代码写的比较着急，所以比较糙。  
 
 暂时先整理这么几个，其它的点这里访问👉👉👉[我的仓库](https://github.com/JiuLing-zhang?tab=repositories)  
