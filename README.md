@@ -1,8 +1,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuLing-zhang&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-热爱码代码，搞的我键盘都换两把了 :dog::dog:  
-
-等待 `MAUI` 中....希望今年二季度不要再鸽了。  
+热爱码代码，键盘都换两把了 :dog::dog:  
 
 ## 开源项目
 ### ![AutoUpgrade.png](https://s2.loli.net/2022/03/01/5fqmdWZh4UKinzy.png) [自动更新组件](https://github.com/JiuLing-zhang/JiuLing.AutoUpgrade)  
