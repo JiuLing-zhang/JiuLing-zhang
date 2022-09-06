@@ -3,7 +3,7 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuLing-zhang&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## 开源项目
-### ![ListenTogether](https://github.com/JiuLing-zhang/ListenTogether/raw/main/docs/resources/images/logo.svg) [一起听](https://github.com/JiuLing-zhang/ListenTogether)  
+### ![ListenTogether](https://github.com/JiuLing-zhang/ListenTogether/raw/main/docs/resources/images/logo.svg){:height="24px" width="24px"} [一起听](https://github.com/JiuLing-zhang/ListenTogether)  
 一个多平台（目前仅测试了`Windows`、`Android`）、极简的在线音乐播放器。 
 基于`.NET MAUI`开发。  
 技术点：网络协议分析、平台代码编写、`sqlite-net-pcl`、责任链、过滤器、模板方法、`MVVM`、模板绑定 等。  
