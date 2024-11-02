@@ -2,8 +2,6 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JiuLing-zhang&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-找工作ing，西安，C#，有需求可以留言联系。
-
 ## 开源项目
 ### <img src="https://github.com/JiuLing-zhang/ListenTogether/raw/main/docs/resources/images/logo.svg" width="24px" height="24px"> [一起听](https://github.com/JiuLing-zhang/ListenTogether)  
 一个多平台（目前仅测试了`Windows`、`Android`）、极简的在线音乐播放器。 
